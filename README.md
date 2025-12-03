@@ -1,4 +1,4 @@
-# Audio Summer: DSUB25/Tascam to 2xXLR/TRS combo Jack [8x2 passive audio summer]
+# Audio Summer: DSUB25/Tascam to 2xXLR/TRS-combo [8x2 passive summer]
 
 ![summer](img/PCB_PCB_easy-summer_2023-02-28.png) 
 
