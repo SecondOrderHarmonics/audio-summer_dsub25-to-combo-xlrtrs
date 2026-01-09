@@ -15,7 +15,7 @@
 A very basic passive audio summer. It sums Tascam/DSUB25 Input (8x XLR or TRS jacks to DSUB/TASCAM) to two combo XLR/TRS Jacks fully balanced. 
 So you may only connect one stereo TRS of them for the sum with a symmetric cable or two TS. You may even connect two balanced/TRS/XLR to get two summing busses.
 
-Consider [buying one for cheap off of Reverb](https://reverb.com/item/66385479-second-order-harmonics-dsub25-tascam-to-xlr-trs-audio-summer-2023-black) if you don't want to fabricate yourself.
+Consider [buying one for cheap off of Reverb](https://reverb.com/item/93950094-second-order-harmonics-audio-summer-dsub25-tascam-to-2xxlr-trs-combo-8x2-passive-summer-2023-black) if you don't want to fabricate yourself.
 
 
 ## Final product
